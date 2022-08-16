@@ -1,2 +1,2 @@
 # EventRight_updated
-new eventright ptojrct (solving all bugs)
+new eventright ptojrct (solved all bugs)
